@@ -50,6 +50,6 @@ Si vous avez des conseils, des suggestions, ou simplement envie d'échanger sur 
 
 <div align="center">
 
-*Fait avec ❤️ et beaucoup de ☕*
+*Fait avec beaucoup de ☕*
 
 </div>
