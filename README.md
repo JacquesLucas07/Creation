@@ -15,11 +15,7 @@
 
 Bienvenue dans mon **repository de créations** ! 🚀
 
-Ce projet est mon terrain d'expérimentation personnel où je regroupe toutes mes petites créations et projets d'apprentissage en développement web. C'est un espace où je m'entraîne, j'explore et je perfectionne mes compétences en :
-
-- ✨ **JavaScript** - Logique, interactivité et dynamisme
-- 🎨 **CSS** - Design, animations et mise en page
-- 🔧 **HTML** - Structure et sémantique
+Ce projet est mon terrain d'expérimentation personnel où je regroupe toutes mes petites créations et projets d'apprentissage en développement web. C'est un espace où je m'entraîne, j'explore et je perfectionne mes compétences en frontend
 
 ## 🎯 Objectif
 
@@ -30,14 +26,16 @@ Ce repository n'a pas vocation à être un portfolio professionnel, mais plutôt
 ## 📂 Contenu
 
 Vous trouverez ici diverses créations :
-- 💬 Des composants UI (chatbox, etc.)
-- 🖌️ Des outils interactifs (eraser, etc.)
+
+- 💬 Des composants UI
+- 🖌️ Des outils interactifs
 - 🧪 Des expérimentations et tests
 - 📚 Des modules personnalisés
 
 ## 🤝 Contribution & Utilisation
 
 **Tout est libre !** Si quelque chose vous intéresse, n'hésitez pas à :
+
 - 📥 Utiliser le code pour vos propres projets
 - 💡 Proposer des améliorations
 - 🌟 Partager vos idées et conseils
