@@ -10,6 +10,8 @@ Desktop.ini
 __MACOSX/
 
 # Dossiers IDE et éditeurs
+.qodo/
+.claude/
 .vscode/
 .idea/
 *.swp
